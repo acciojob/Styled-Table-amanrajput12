@@ -1,1 +1,30 @@
 /* your code */
+
+table{
+ border-colapse:collapse;
+	border:2px solid black;
+	border-radius:10px;
+	margin-top:20px;
+	
+}
+td,th{
+padding:5px
+}
+.offwhite{
+background-color:#cacfd2;
+	}
+
+*{
+padding:0;
+		margin:0;
+	box-sizing:border-box
+}
+.td{
+background-color:#5499c7;
+	color:white;
+	font-weight:300;
+
+}
+.name,.kill,.deaths,.saved,.revives,.win{
+width:120px;
+}
